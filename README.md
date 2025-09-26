@@ -11,3 +11,6 @@ O workflow do projeto incluiu:
 - Treinamento do modelo YOLO: configuração de hiperparâmetros (tamanho da imagem, batch size, número de épocas) e salvamento dos pesos (best.pt e last.pt).
 
 - Validação e avaliação: cálculo de métricas de desempenho e visualização de bounding boxes em imagens de teste.
+
+
+<img src="https://github.com/monicaneli/Deteccao-em-imagens-rede-Yolo/blob/d16a7f2b49033d862ebe0e3a4e05c9a148df7e1f/deteccao.jpg" />
